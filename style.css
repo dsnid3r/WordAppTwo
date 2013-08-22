@@ -117,55 +117,55 @@ td { vertical-align: top; }
 /*FONTS*/
 @font-face {
     font-family: 'Roboto';
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-regular-webfont.eot');
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-regular-webfont.woff') format('woff'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-regular-webfont.ttf') format('truetype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-regular-webfont.svg#RobotoRegular') format('svg');
+    src: url('http://wordapp.host-ed.me/wp/fonts/roboto-regular-webfont.eot');
+    src: url('http://wordapp.host-ed.me/wp/roboto-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://wordapp.host-ed.me/wp/roboto-regular-webfont.woff') format('woff'),
+         url('http://wordapp.host-ed.me/wp/roboto-regular-webfont.ttf') format('truetype'),
+         url('http://wordapp.host-ed.me/wp/roboto-regular-webfont.svg#RobotoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-italic-webfont.eot');
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-italic-webfont.woff') format('woff'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-italic-webfont.ttf') format('truetype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-italic-webfont.svg#RobotoItalic') format('svg');
+    src: url('http://wordapp.host-ed.me/wp/roboto-italic-webfont.eot');
+    src: url('http://wordapp.host-ed.me/wp/roboto-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://wordapp.host-ed.me/wp/roboto-italic-webfont.woff') format('woff'),
+         url('http://wordapp.host-ed.me/wp/roboto-italic-webfont.ttf') format('truetype'),
+         url('http://wordapp.host-ed.me/wp/roboto-italic-webfont.svg#RobotoItalic') format('svg');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-bold-webfont.eot');
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-bold-webfont.woff') format('woff'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-bold-webfont.ttf') format('truetype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-bold-webfont.svg#RobotoBold') format('svg');
+    src: url('http://wordapp.host-ed.me/wp/roboto-bold-webfont.eot');
+    src: url('http://wordapp.host-ed.me/wp/roboto-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://wordapp.host-ed.me/wp/roboto-bold-webfont.woff') format('woff'),
+         url('http://wordapp.host-ed.me/wp/roboto-bold-webfont.ttf') format('truetype'),
+         url('http://wordapp.host-ed.me/wp/roboto-bold-webfont.svg#RobotoBold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-light-webfont.eot');
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-light-webfont.woff') format('woff'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-light-webfont.ttf') format('truetype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-light-webfont.svg#RobotoLtRegular') format('svg');
+    src: url('http://wordapp.host-ed.me/wp/roboto-light-webfont.eot');
+    src: url('http://wordapp.host-ed.me/wp/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://wordapp.host-ed.me/wp/roboto-light-webfont.woff') format('woff'),
+         url('http://wordapp.host-ed.me/wp/roboto-light-webfont.ttf') format('truetype'),
+         url('http://wordapp.host-ed.me/wp/roboto-light-webfont.svg#RobotoLtRegular') format('svg');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/fonts/roboto-medium-webfont.eot');
-    src: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-medium-webfont.woff') format('woff'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-medium-webfont.ttf') format('truetype'),
-         url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/fonts/roboto-medium-webfont.svg#RobotoLtRegular') format('svg');
+    src: url('http://wordapp.host-ed.me/wp/fonts/roboto-medium-webfont.eot');
+    src: url('http://wordapp.host-ed.me/wp/roboto-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://wordapp.host-ed.me/wp/roboto-medium-webfont.woff') format('woff'),
+         url('http://wordapp.host-ed.me/wp/roboto-medium-webfont.ttf') format('truetype'),
+         url('http://wordapp.host-ed.me/wp/roboto-medium-webfont.svg#RobotoLtRegular') format('svg');
     font-weight: 300;
     font-style: normal;
 }
@@ -285,7 +285,7 @@ aside .wa_scroller {
 }
 
 blockquote {
-	background: transparent url("http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/blockquote.png") no-repeat 0 0;
+	background: transparent url("http://wordapp.host-ed.me/wp/images/blockquote.png") no-repeat 0 0;
 	color: #737373;
 	height: auto;
 	margin: 22px 40px;
@@ -427,7 +427,7 @@ input,textarea {
 }
 
 #wa_sidebar_home {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -678px -34px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -678px -34px;
 	height: 27px;
 	width: 30px;
 	margin-top: 12px;
@@ -435,7 +435,7 @@ input,textarea {
 }
 
 #wa_sidebar_mobile {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -675px -5px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -675px -5px;
 	height: 27px;
 	width: 37px;
 	margin-top: 11px;
@@ -443,7 +443,7 @@ input,textarea {
 }
 
 #wa_sidebar_podcasts {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -646px -4px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -646px -4px;
 	height: 27px;
 	width: 24px;
 	margin-top: 12px;
@@ -451,7 +451,7 @@ input,textarea {
 }
 
 #wa_sidebar_categories {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -613px -34px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -613px -34px;
 	height: 27px;
 	width: 22px;
 	margin-top: 12px;
@@ -459,7 +459,7 @@ input,textarea {
 }
 
 #wa_sidebar_contact {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -719px -4px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -719px -4px;
 	height: 26px;
 	width: 25px;
 	margin-top: 12px;
@@ -467,7 +467,7 @@ input,textarea {
 }
 
 #wa_sidebar_about {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -643px -34px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -643px -34px;
 	height: 26px;
 	width: 32px;
 	margin-top: 12px;
@@ -475,7 +475,7 @@ input,textarea {
 }
 
 #wa_sidebar_polls {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -613px -4px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -613px -4px;
 	height: 26px;
 	width: 29px;
 	margin-left: 14px;
@@ -483,7 +483,7 @@ input,textarea {
 }
 
 #wa_sidebar_maxcdn {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -11px -117px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -11px -117px;
 	width: 27px;
 	height: 27px;
 	margin-left: 14px;
@@ -491,7 +491,7 @@ input,textarea {
 }
 
 #wa_sidebar_dynaceron {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -46px -117px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -46px -117px;
 	width: 26px;
 	height: 27px;
 	margin-left: 14px;
@@ -508,7 +508,7 @@ input,textarea {
 .wa_sidebar_arrow {
 	width: 12px;
 	height: 16px;
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -569px -41px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -569px -41px;
 	position: absolute;
 	margin-top: 16px;
 	margin-left: 148px;
@@ -530,7 +530,7 @@ input,textarea {
 }
 
 #wa_search_x {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -7px -72px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -7px -72px;
 	width: 18px;
 	height: 18px;
 	position: absolute;
@@ -541,7 +541,7 @@ input,textarea {
 }
 
 #wa_search_x:hover {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -32px -72px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -32px -72px;
 }
 
 #wa_nav_posts {
@@ -582,7 +582,7 @@ input,textarea {
 }
 
 #wa_nav_search_icon {
-	background: #fff url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -596px -4px;
+	background: #fff url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -596px -4px;
 	width: 13px;
 	height: 14px;
 	position: absolute;
@@ -660,7 +660,7 @@ input,textarea {
 }
 
 .wa_posts_author {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -541px -4px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -541px -4px;
 	height: 15px;
 	width: 16px;
 	position: relative;
@@ -668,7 +668,7 @@ input,textarea {
 }
 
 .wa_posts_date {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -577px -4px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -577px -4px;
 	height: 16px;
 	width: 17px;
 	position: relative;
@@ -676,7 +676,7 @@ input,textarea {
 }
 
 .wa_posts_categories {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png) no-repeat -559px -3px;
+	background: url(http://wordapp.host-ed.me/wp/images/main_images.png) no-repeat -559px -3px;
 	height: 16px;
 	width: 16px;
 	position: relative;
@@ -838,7 +838,7 @@ input,textarea {
 }
 
 #wa_shade {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/fading.png) repeat;
+	background: url(http://wordapp.host-ed.me/wp/images/fading.png) repeat;
 	-moz-box-shadow: inset 0 0 200px 0px #272727;
 	-webkit-box-shadow: inset 0 0 200px 0px #272727;
 	box-shadow: inset 0 0 200px 0px #272727;
@@ -859,7 +859,7 @@ input,textarea {
 }
 
 #wa_popup_x {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -60px -72px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -60px -72px;
 	width: 37px;
 	height: 38px;
 	position: absolute;
@@ -873,7 +873,7 @@ input,textarea {
 }
 
 #wa_popup_x:active {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -104px -72px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -104px -72px;
 }
 
 #wa_popup #wa_title {
@@ -948,7 +948,7 @@ input,textarea {
 	width: 100%;
 	height: 100%;
 	background-size: 54px 54px;
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/loading.gif) no-repeat center center;
+	background: url(http://wordapp.host-ed.me/wp/images/loading.gif) no-repeat center center;
 }
 
 .wa_heading {
@@ -1302,15 +1302,15 @@ input,textarea {
 }
 
 .wa_polls {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/polls-bg.png) no-repeat right bottom;
+	background: url(http://wordapp.host-ed.me/wp/images/polls-bg.png) no-repeat right bottom;
 }
 
 .wa_tipus {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/tipus-bg.png) no-repeat right bottom;
+	background: url(http://wordapp.host-ed.me/wp/images/tipus-bg.png) no-repeat right bottom;
 }
 
 .wa_upgradeBrowserImg {
-	background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/important-bg.png) no-repeat right bottom;
+	background: url(http://wordapp.host-ed.me/wp/images/important-bg.png) no-repeat right bottom;
 }
 
 .wa_about_person_image {
@@ -1566,7 +1566,7 @@ input,textarea {
 }
 
 #wa_search_large_icon {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -1072px -4px;
+	background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -1072px -4px;
 	width: 116px;
 	height: 122px;
 	margin-bottom: 24px;
@@ -1651,7 +1651,7 @@ table.wa_aligncenter, table.aligncenter {
 
 #wa_breadcrumb div {
     height:30px;
-    background-image:url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/bc_separator.png'); 
+    background-image:url('http://wordapp.host-ed.me/wp/images/bc_separator.png'); 
     background-repeat:no-repeat; 
     background-position:right;
     padding-right: 15px;
@@ -1662,7 +1662,7 @@ table.wa_aligncenter, table.aligncenter {
 
 #wa_breadcrumb #wa_breadcrumb_home {
     border: none;
-    background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images.png') no-repeat -722px -41px;
+    background: url('http://wordapp.host-ed.me/wp/images/main_images.png') no-repeat -722px -41px;
     width: 19px;
     height: 17px;
     display: block;
@@ -1689,7 +1689,7 @@ header a:hover {
 }
 
 .video {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/video-play.png') no-repeat;
+	background: url('http://wordapp.host-ed.me/wp/images/video-play.png') no-repeat;
 	display: block;
 	width: 96px;
 	height: 96px;
@@ -1812,7 +1812,7 @@ a.fancybox-media, a.fancybox-media img {
 	}
 	
 	.video {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/video-play-retina.png') no-repeat;
+		background: url('http://wordapp.host-ed.me/wp/images/video-play-retina.png') no-repeat;
 		display: block;
 		width: 96px;
 		height: 96px;
@@ -1823,25 +1823,25 @@ a.fancybox-media, a.fancybox-media img {
 	}
 	
 	article #wa_notification #wa_notify_icon {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -685px -36px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -685px -36px;
 		width: 33px;
 		height: 33px;
 	}
 	
 	#wa_breadcrumb div {
-	    background-image:url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/bc_separator_retina.png'); 
+	    background-image:url('http://wordapp.host-ed.me/wp/images/bc_separator_retina.png'); 
 	    height: 31px;
 	    background-size: 8px 31px; /*need to specify size of retina image*/
 	}
 	
 	#wa_logo {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat 0 0;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat 0 0;
 		width: 344px;
 		height: 60px;
 	}
 	
 	#wa_load_image {
-		background: url(http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/loading-static-retina.png) no-repeat center center;
+		background: url(http://wordapp.host-ed.me/wp/images/loading-static-retina.png) no-repeat center center;
 	    -webkit-animation-name:             wa_load-rotate; 
 	    -webkit-animation-duration:         1.5s; 
 	    -webkit-animation-iteration-count:  infinite;
@@ -1858,176 +1858,176 @@ a.fancybox-media, a.fancybox-media img {
 	}
 
 	#wa_sidebar_home {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -575px -2px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -575px -2px;
 		width: 28px;
 		height: 27px;
 	}
 	
 	#wa_sidebar_mobile {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -607px -2px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -607px -2px;
 		width: 37px;
 		height: 28px;
 	}
 	
 	#wa_sidebar_podcasts {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -613px -35px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -613px -35px;
 		width: 24px;
 		height: 28px;
 	}
 	
 	#wa_sidebar_categories {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -578px -35px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -578px -35px;
 		width: 22px;
 		height: 28px;
 	}
 	
 	#wa_sidebar_contact {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -650px -3px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -650px -3px;
 		width: 25px;
 		height: 26px;
 	}
 	
 	#wa_sidebar_about {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -646px -36px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -646px -36px;
 		width: 31px;
 		height: 27px;
 	}
 	
 	#wa_sidebar_polls {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -681px -2px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -681px -2px;
 		width: 28px;
 		height: 27px;
 	}
 	
 	#wa_sidebar_maxcdn {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -767px -43px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -767px -43px;
 		width: 27px;
 		height: 26px;
 	}
 
 	#wa_sidebar_dynaceron {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -646px -74px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -646px -74px;
 		width: 27px;
 		height: 27px;
 	}
 	
 	.wa_sidebar_arrow {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -538px -35px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -538px -35px;
 		width: 11px;
 		height: 15px;
 	}
 	
 	#wa_search_x {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -722px -48px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -722px -48px;
 		width: 18px;
 		height: 18px;
 	}
 	
 	#wa_search_x:hover {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -743px -48px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -743px -48px;
 		width: 18px;
 		height: 18px;
 	}
 	
 	#wa_nav_search_icon {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -540px -4px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -540px -4px;
 		width: 11px;
 		height: 12px;
 	}
 	
 	.wa_posts_author {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -556px -2px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -556px -2px;
 		width: 16px;
 		height: 13px;
 	}
 	
 	.wa_posts_date {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -539px -19px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -539px -19px;
 		width: 16px;
 		height: 13px;
 	}
 	
 	.wa_posts_categories {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -557px -18px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -557px -18px;
 		width: 16px;
 		height: 14px;
 	}
 	
 	#wa_nav_previous_post, #wa_nav_previous_post_off {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -350px -1px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -350px -1px;
 		width: 103px;
 		height: 28px;
 	} 
 	
 	#wa_nav_previous_post:active {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -350px -32px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -350px -32px;
 	} 
 	
 	#wa_nav_next_post, #wa_nav_next_post_off {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -456px -1px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -456px -1px;
 		width: 80px;
 		height: 28px;
 	} 
 	
 	#wa_nav_next_post:active {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -456px -32px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -456px -32px;
 	} 
 	
 	#wa_popup_x {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -719px -5px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -719px -5px;
 		width: 31px;
 		height: 33px;
 	}
 	
 	#wa_popup_x:active {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -758px -5px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -758px -5px;
 	}
 	
 	#wa_search_large_icon {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -1118px -8px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -1118px -8px;
 		width: 116px;
 		height: 122px;
 	}
 	
 	#wa_breadcrumb #wa_breadcrumb_home {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -554px -39px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -554px -39px;
 		width: 18px;
 		height: 16px;
 	}
 		
 	#wa_chrome {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -5px -71px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -5px -71px;
 		width: 54px;
 		height: 74px;
 	}
 	
 	#wa_safari {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -79px -68px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -79px -68px;
 		width: 53px;
 		height: 77px;
 	}
 	
 	#wa_ie9 {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -150px -70px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -150px -70px;
 		width: 58px;
 		height: 74px;
 	}
 	
 	#wa_firefox {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -223px -70px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -223px -70px;
 		width: 56px;
 		height: 75px;
 	}
 	
 	#wa_bestViewedInChrome {
-		background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/main_images_retina.png') no-repeat -306px -69px;
+		background: url('http://wordapp.host-ed.me/wp/images/main_images_retina.png') no-repeat -306px -69px;
 		width: 326px;
 		height: 122px;
 	}
 }
 
 #wa_disableClicks {
-	background: url('http://cdn.techcoresv3.5tatic.com/wp-content/themes/techcores_v3/images/transparent.png') repeat;
+	background: url('http://wordapp.host-ed.me/wp/images/transparent.png') repeat;
 }
 
 
