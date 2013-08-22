@@ -4,8 +4,15 @@
 
 <JasobNoObfs>
 
-<!--                                   
-- Handcrafted & Engineered by Dustin Snider (dsni.me)
+<!--
+   ____      _ __        __            _    _                                    
+  / ___| ___| |\ \      / /__  _ __ __| |  / \   _ __  _ __   ___ ___  _ __ ___  
+ | |  _ / _ \ __\ \ /\ / / _ \| '__/ _` | / _ \ | '_ \| '_ \ / __/ _ \| '_ ` _ \ 
+ | |_| |  __/ |_ \ V  V / (_) | | | (_| |/ ___ \| |_) | |_) | (_| (_) | | | | | |
+  \____|\___|\__| \_/\_/ \___/|_|  \__,_/_/   \_\ .__/| .__(_)___\___/|_| |_| |_|
+                                                |_|   |_|                                                            
+- Handcrafted & Engineered by Taylor Jasko (taylorjasko.com), Marc Billow (marcbillow.com), and Jeffrey Low (@jefflow72), Dustin Snider (@dustinsnider)
+- Fixed by Dustin Snider
 -->
 
 </JasobNoObfs>
